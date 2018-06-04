@@ -1,2 +1,2 @@
-# Test
-test 1
+# MAS
+my first app
